@@ -42,4 +42,4 @@ Available Presets:
 
 ## **📜 License**
 
-MIT License. Created by Joshua Dwight.
+GPL-3.0 License. Created by Joshua Dwight.
